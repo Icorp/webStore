@@ -1,5 +1,5 @@
 # webStore
-Типо Интернет-магазин для резюме.
+Demo project for resume : Todo list
 # Цели:
 
 1. Найти простой дизайн
