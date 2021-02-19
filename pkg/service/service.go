@@ -7,16 +7,16 @@ import "github.com/Icorp/webStore/pkg/repository"
 type Authorization interface {
 }
 
-type ProductList interface {
+type TodoList interface {
 }
 
-type ProductItem interface {
+type TodoItem interface {
 }
 
 type Service struct {
 	Authorization
-	ProductItem
-	ProductList
+	TodoList
+	TodoItem
 }
 
 func NewService(repos *repository.Repository) *Service {
