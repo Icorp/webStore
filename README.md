@@ -1,7 +1,6 @@
 # webStore
-Demo project for resume : Todo list
-# Цели:
+Pet projet
 
-1. Найти простой дизайн
-2. Написать каркас
-3. Настроить БД
+# Goal:
+
+1.Clean arch
